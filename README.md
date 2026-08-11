@@ -22,7 +22,7 @@
 
 💻 Love building real-world Python projects
 
-⚡ Goal: Become an AI Engineer
+⚡ Goal: Become a Full Stack AI Engineer
 
 ---
 
@@ -107,6 +107,9 @@
 ✔ Machine Learning
 
 ✔ AI Development
+
+✔ Java
+
 
 ---
 
