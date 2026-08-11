@@ -33,6 +33,12 @@
 <a href="https://www.linkedin.com/in/mihir-balam-aba24b342">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+<a href="mailto:mihirbalam35@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://www.instagram.com/mihirbalam16">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 
 </p>
 
